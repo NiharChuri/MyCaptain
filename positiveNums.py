@@ -1,6 +1,5 @@
 list1 = [12, -7, 5, 64, -14]
 
-# Output positive numbers
 print("Input: list1 =", list1)
 print("Output:", end=" ")
 for num in list1:
